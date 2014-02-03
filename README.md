@@ -8,13 +8,9 @@ It mimics the default appearance when a trackpad or magic mouse is used.
 
 ## Via [cocoapods](http://cocoapods.org)
 
-I'll add the pod to the cocoapods library. As soon as it's accepted you can use:
+Add this to your Podfile:
 
     pod 'DCOTransparentScroller'
-
-While it hasn't been added add the following line to your Podfile:
-
-    pod 'DCOTransparentScroller', :git => 'git@github.com:DangerCove/DCOTransparentScroller.git'
 
 Then run `pod install` and you're set.
 
