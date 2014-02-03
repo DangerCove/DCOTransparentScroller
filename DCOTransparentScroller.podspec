@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name            = "DCOURLTransparentScroller"
+  s.name            = "DCOTransparentScroller"
   s.version         = "0.0.1"
   s.summary         = "Removes the track from NSScrollers."
   s.description     = <<-DESC
