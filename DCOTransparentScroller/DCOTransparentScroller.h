@@ -8,6 +8,14 @@
 
 #import <Cocoa/Cocoa.h>
 
+//! Project version number for DCOTransparentScroller.
+FOUNDATION_EXPORT double DCOTransparentScrollerVersionNumber;
+
+//! Project version string for DCOTransparentScroller.
+FOUNDATION_EXPORT const unsigned char DCOTransparentScrollerVersionString[];
+
+// In this header, you should import all the public headers of your framework using statements like #import <DCOTransparentScroller/PublicHeader.h>
+
 /**
  *  Doesn't draw the scroller track.
  *
