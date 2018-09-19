@@ -14,6 +14,14 @@ Add this to your Podfile:
 
 Then run `pod install` and you're set.
 
+## Via [carthage](https://github.com/Carthage/Carthage)
+
+Add this to your Podfile:
+
+    github "DangerCove/DCOTransparentScroller"
+
+Then run `carthage update` and you're set.
+
 ## Manually
 
 Clone this repo and add files from `DCOTransparentScroller` to your project.
